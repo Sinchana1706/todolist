@@ -1,7 +1,7 @@
 html {
   background-color:#20B2AA;
-   
-  height: auto;
+   position: fixed;
+  height:100%;
   font-family: 'helvetica neue';
 }
 
